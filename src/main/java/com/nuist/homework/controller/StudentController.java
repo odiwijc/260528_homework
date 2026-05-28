@@ -9,7 +9,7 @@ package com.nuist.homework.controller;
 
 import com.nuist.homework.dao.StudentDAO;
 import com.nuist.homework.entity.Student;
-import com.nuist.vo.ResultVO;
+import com.nuist.homework.vo.ResultVO;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

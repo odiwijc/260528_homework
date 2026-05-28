@@ -1,4 +1,4 @@
-package com.nuist.vo;
+package com.nuist.homework.vo;
 
 import lombok.Data;
 
